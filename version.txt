@@ -1,0 +1,9 @@
+Last updated: 2018-08-24 12:41:39 -0700
+
+Latest commit:
+    commit d929a807718bb99f11328727c5fe5f72f9147934
+    Author: Aravind SV <mail@arvindsv.com>
+    Date:   Fri Aug 24 15:38:02 2018 -0400
+    
+        Try to make HTML valid
+    
