@@ -1,9 +1,9 @@
-Last updated: 2018-08-29 23:17:58 -0700
+Last updated: 2018-08-30 13:23:44 -0700
 
 Latest commit:
-    commit 44337c26be7caa6104abe48e3e02729a033cc469
+    commit 645b13681f2428ece3abb75bcda8ee8ede53feba
     Author: Chandu199 <n.chandrakanth0@gmail.com>
-    Date:   Thu Aug 30 11:42:39 2018 +0530
+    Date:   Thu Aug 30 15:22:40 2018 +0530
     
-        Markto responsive WIP
+        fine tune on button marketo
     
