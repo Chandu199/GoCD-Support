@@ -1,9 +1,9 @@
-Last updated: 2018-08-28 05:14:18 -0700
+Last updated: 2018-08-29 23:17:58 -0700
 
 Latest commit:
-    commit 548c06a091554b79c1d118b723daa583a802de85
+    commit 44337c26be7caa6104abe48e3e02729a033cc469
     Author: Chandu199 <n.chandrakanth0@gmail.com>
-    Date:   Tue Aug 28 17:39:57 2018 +0530
+    Date:   Thu Aug 30 11:42:39 2018 +0530
     
-        WIP Marketo form stylinh
+        Markto responsive WIP
     
