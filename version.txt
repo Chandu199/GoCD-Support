@@ -1,9 +1,9 @@
-Last updated: 2018-09-03 05:02:04 -0700
+Last updated: 2018-09-03 06:59:18 -0700
 
 Latest commit:
-    commit a93b1055ed136f4841b5d9768bc25d59a353a19e
+    commit f8efc678dacb8d572d5c288ad6b5c86971f8e3cd
     Author: Chandu199 <n.chandrakanth0@gmail.com>
-    Date:   Mon Sep 3 17:29:47 2018 +0530
+    Date:   Mon Sep 3 19:26:46 2018 +0530
     
-        added styling to footer based on javascript load
+        added the styling for the Message and fixed bugs
     
