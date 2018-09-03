@@ -1,9 +1,9 @@
-Last updated: 2018-09-03 04:48:50 -0700
+Last updated: 2018-09-03 05:02:04 -0700
 
 Latest commit:
-    commit 085564904f944f97dfbcde9c8cabd79182cda783
+    commit a93b1055ed136f4841b5d9768bc25d59a353a19e
     Author: Chandu199 <n.chandrakanth0@gmail.com>
-    Date:   Mon Sep 3 17:14:20 2018 +0530
+    Date:   Mon Sep 3 17:29:47 2018 +0530
     
-        added error msg block to the section
+        added styling to footer based on javascript load
     
