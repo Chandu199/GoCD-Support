@@ -1,9 +1,9 @@
-Last updated: 2018-09-02 23:49:04 -0700
+Last updated: 2018-09-03 04:48:50 -0700
 
 Latest commit:
-    commit 9251461bc13b4a4718e1d4bd2b568fcc7479e096
+    commit 085564904f944f97dfbcde9c8cabd79182cda783
     Author: Chandu199 <n.chandrakanth0@gmail.com>
-    Date:   Mon Sep 3 12:14:18 2018 +0530
+    Date:   Mon Sep 3 17:14:20 2018 +0530
     
-        Width issue fix
+        added error msg block to the section
     
