@@ -1,10 +1,10 @@
-Last updated: 2018-09-05 15:08:25 -0700
+Last updated: 2018-09-06 08:47:50 -0700
 
 Latest commit:
-    commit 3d5fe2d919f30407b86b81511d5d7869d5f9f0f5
-    Merge: 396bad0 0c0dbe6
+    commit 2c6bc98b08d87bdb87fd1dae1d715108d26508ea
+    Merge: 396bad0 c7f306c
     Author: GoCD Build User <go-cd@googlegroups.com>
-    Date:   Wed Sep 5 15:07:17 2018 -0700
+    Date:   Thu Sep 6 08:46:31 2018 -0700
     
         Merge branch 'branch-with-code' into support-page-new
     
