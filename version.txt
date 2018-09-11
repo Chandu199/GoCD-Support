@@ -1,10 +1,9 @@
-Last updated: 2018-09-11 14:07:23 -0700
+Last updated: 2018-09-11 14:48:21 -0700
 
 Latest commit:
-    commit 3fe20cfe2b5eec4091acea69d83f676b12a0b90c
-    Merge: b90d695 fc80638
+    commit ebf27365b584280ccb64e0004b58500aa7006b01
     Author: Aravind SV <mail@arvindsv.com>
-    Date:   Tue Sep 11 16:57:46 2018 -0400
+    Date:   Tue Sep 11 17:45:16 2018 -0400
     
-        Merge remote-tracking branch 'up/master' into support-page-new
+        Fix smooth scroll
     
